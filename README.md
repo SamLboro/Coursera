@@ -1,2 +1,2 @@
 # Coursera
-Coursera Submissions
+This repo is for Coursera submissions
